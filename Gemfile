@@ -24,7 +24,13 @@ gem 'jbuilder', '~> 2.0'
 # Twitter Bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
+#Font Awesome
+
 gem 'font-awesome-rails'
+
+#Simple Form
+gem 'simple_form'
+
 
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
